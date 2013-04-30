@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\bin\Debug\SerialPrint.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\bin\Debug\SerialPrint.pdb
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\SerialPrint.Form1.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\SerialPrint.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\SerialPrint.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\SerialPrint.exe
+\\psf\Home\Documents\Visual Studio 2008\Projects\SerialPrint\SerialPrint\obj\Debug\SerialPrint.pdb
